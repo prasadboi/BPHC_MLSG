@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Arjun Prasad\\anaconda3\\envs\\DeepLearning_Tensorflow\\python.exe"
+    "python.pythonPath": "C:\\Users\\Arjun Prasad\\anaconda3\\envs\\DeepLearning_Tensorflow\\python.exe",
+    "git.ignoreLimitWarning": true
 }
